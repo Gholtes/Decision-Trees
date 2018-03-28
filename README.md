@@ -3,7 +3,7 @@ Exploration of decision trees in R and Python
 
 Program Files:
 
-DecisionTree.R - use of a decision tree algorithm in R
+DecisionTree.R - use of a decision tree algorithm in R, using Rpart
 
 lib.py - use of a decision tree algorithm in Python, using Pandas for data extraction and transormation, and SciKit-Learn to create the model
 
